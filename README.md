@@ -5,3 +5,4 @@
 - [azureipcheck](https://github.com/daddycocoaman/azureipcheck) A Python-based CLI tool to check IP addresses against Azure services.
 - [Video Diet](https://github.com/hiancdtrsnm/video-diet) This project aims to reduce the spaces of your videos and audios encoding it on hevc.
 - [AT Python Template](https://github.com/at-gmbh/at-python-template) Quickly bootstrap a Python project that provides lots of useful stuff to build, test & deploy your code without being overly convoluted like many of the publicly available packages.
+- [Arabic Names Transliteration](https://github.com/thomas-chauvet/names_transliteration) Neural Machine Translation (NMT) applied to transliterate names in arabic characters to latin characters (romanization)
