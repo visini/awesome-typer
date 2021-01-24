@@ -8,4 +8,4 @@
 - [Arabic Names Transliteration](https://github.com/thomas-chauvet/names_transliteration) Neural Machine Translation (NMT) applied to transliterate names in arabic characters to latin characters (romanization)
 - [klip - Kindle Highlights Extractor](https://github.com/alex-schaaf/klip) - Reads your book highlights from a connected Kindle device, sorts through the mess and organizes all clippings into per-book markdown files and saves them into author folders at a given destination folder.
 - [likemySO](https://github.com/iwpnd/likemyso) - Like your significant others latest instagram pictures if you forgot it (again).
-  
+- [Calendar](https://github.com/aaditkamat/calendar) - look up what day of the week a particular day falls on or find the duration between two dates right from your terminal.
